@@ -21,11 +21,11 @@ ses,IAM user name,https://www.invictus-ir.com/news/the-curious-case-of-dangerdev
 671050157472,AWS account ID,https://www.invictus-ir.com/news/the-curious-case-of-dangerdev-protonmail-me
 rajajh,IAM user name,https://www.invictus-ir.com/news/the-curious-case-of-dangerdev-protonmail-me
 cevlupdia,IAM user name,https://www.invictus-ir.com/news/the-curious-case-of-dangerdev-protonmail-me
-nohuppo:pause ,Container image name,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
-dockerproxys:pause ,Container image name,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
-dockerproxys:pauser  ,Container image name,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
-dockerproxys:pausem ,Container image name,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
-pausehubs:pause ,Container image name,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
+nohuppo/pause ,Container image name,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
+dockerproxys/pause ,Container image name,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
+dockerproxys/pauser  ,Container image name,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
+dockerproxys/pausem ,Container image name,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
+pausehubs/pause ,Container image name,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
 NYryXAGi7niFPk5FaxmqcY8hpTHmnFA9eT.TT ,Crypto wallet,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
 dero1qyy8xjrdjcn2dvr6pwe40jrl3evv9vam6tpx537vux60xxkx6hs7zqgde993y ,Crypto wallet,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
 dero1qyhauw0rvt5sr0nvsg97n9wq0hg4s0hrj7xs09yw97tctfdqevxgzqgf40nxc ,Crypto wallet,https://www.wiz.io/blog/dero-cryptojacking-campaign-adapts-to-evade-detection
