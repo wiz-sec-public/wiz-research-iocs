@@ -64,3 +64,4 @@ alp1ne,DockerHub account name,https://github.com/silascutler/dockerhoneypot-logs
 DAFyut,Container name,https://github.com/silascutler/dockerhoneypot-logs
 lin_alpine,Container name,https://github.com/silascutler/dockerhoneypot-logs
 weavesc0pe,Container name,https://github.com/silascutler/dockerhoneypot-logs
+kube-edagent,Container name,https://www.trendmicro.com/en_us/research/24/j/attackers-target-exposed-docker-remote-api-servers-with-perfctl-.html
