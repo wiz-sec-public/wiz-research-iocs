@@ -65,3 +65,9 @@ DAFyut,Container name,https://github.com/silascutler/dockerhoneypot-logs
 lin_alpine,Container name,https://github.com/silascutler/dockerhoneypot-logs
 weavesc0pe,Container name,https://github.com/silascutler/dockerhoneypot-logs
 kube-edagent,Container name,https://www.trendmicro.com/en_us/research/24/j/attackers-target-exposed-docker-remote-api-servers-with-perfctl-.html
+mailer-sns-smtp,IAM user name,https://sysdig.com/blog/emeraldwhale/
+mizaruveryhq,IAM user name,https://sysdig.com/blog/emeraldwhale/
+s3-admin,IAM user name,https://sysdig.com/blog/emeraldwhale/
+SupportAWS,IAM user name,https://sysdig.com/blog/emeraldwhale/
+SupportAWS123,IAM user password,https://sysdig.com/blog/emeraldwhale/
+@Myregular2910Evolutions@,IAM user password,https://sysdig.com/blog/emeraldwhale/
