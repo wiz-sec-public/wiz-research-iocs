@@ -1,0 +1,232 @@
+Indicator,Type,Description ,Confidence of 0ktapus Attribution,Previously Known,Activity Period
+forward-icloud[.]com ,Domain,Domain hosting phishing kit used by 0ktapus ,High ,Yes ,14.8.2024
+acwa-internal[.]com,Domain,"Hosted on same IP address (142.93.3[.]117) as apple-vpn[.]com, acwa-apple[.]com",Medium,Yes ,16.9.2024
+twitter-okta[.]com,Domain,Hosted on same IP address (80.78.22[.]244) as okta-ouryahoo[.]com,Medium,Yes ,6.10.2024
+activecampaign-hr[.]com,Domain,Phishing domain,Low,No,6.5.2024
+activecampainhr[.]com,Domain,Phishing domain,Low,No,15.5.2024
+block-hr[.]com,Domain,Phishing domain,High ,Yes ,18.5.2024
+block-sso[.]com,Domain,Phishing domain,High ,Yes ,9.11.2023
+cashsso[.]com,Domain,Phishing domain,High ,Yes ,9.11.2023
+hr-gnc[.]com,Domain,Phishing domain,High ,No,7.5.2024
+login.block-hr[.]com,Domain,Phishing domain,High ,Yes ,18.5.2024
+uscellular-sso[.]com ,Domain,Phishing domain ,High ,Yes ,6.5.2024
+sunrise-crypto[.]com,Domain,Phishing domain ,Medium,No,29.9.2024
+expediagroup-servicenow[.]com ,Domain,Phishing domain Expedia group,High ,Yes ,9.6.2024
+adasupport-okta[.]com,Domain,Phishing domain for Ada CX,Medium,No,15.4.2024
+alchemy-okta[.]com,Domain,Phishing domain for Alchemy,Medium,No,3.4.2024
+auth-alchemy[.]com,Domain,Phishing domain for Alchemy,Medium,No,3.4.2024
+login.ally-hr[.]com,Domain,Phishing domain for Ally,High ,Yes ,20.4.2024
+login.corporate-ally[.]com,Domain,Phishing domain for Ally,High ,Yes ,20.4.2024
+amica-hr[.]com,Domain,Phishing domain for Amica,Medium,Yes ,22.4.2024
+hanover-hr[.]com,Domain,Phishing domain for Amica,Medium,Yes ,22.4.2024
+sharing-folders[.]com,Domain,Phishing domain for Amica,Medium,Yes ,15.4.2024
+login.realogy-hr[.]com,Domain,Phishing domain for Anywhere Real Estate,High ,Yes ,5.5.2024
+acwa-apple[.]com,Domain,Phishing domain for Apple,Medium,No,16.9.2024
+apple-vpn[.]com,Domain,Phishing domain for Apple,Medium,No,16.9.2024
+sync-apple[.]com,Domain,Phishing domain for Apple,Medium,No,19.9.2024
+okta-blockdaemon[.]com,Domain,Phishing domain for Blockdaemon,Medium,No,5.3.2024
+authenticate-bt[.][com,Domain,Phishing domain for BT,High ,Yes ,10.6.2024
+www.authenticate-bt[.]com ,Domain,Phishing domain for BT,High ,Yes ,4.8.2024-5.8.2024
+cellularsaies[.]com,Domain,Phishing domain for Cellular Sales,High ,Yes ,31.3.2024
+okta. cellularsaies[.]com,Domain,Phishing domain for Cellular Sales,High ,Yes ,31.3.2024
+okta.cellularsaies[.]com,Domain,Phishing domain for Cellular Sales,High ,Yes ,31.3.2024
+clicksend-staging[.]com,Domain,Phishing domain for ClickSend,Medium,Yes ,29.4.2024
+okta-cbhq[.]net,Domain,Phishing domain for CoinBase,High ,No,14.10.2024
+commonspiritcorp-okta[.]com,Domain,Phishing domain for Common Spirit,High ,No,14.10.2024
+condenast-hub-okta-emea[.]com,Domain,Phishing domain for Conde Nast,Medium,Yes ,29.9.2024
+consensys-okta[.]com,Domain,Phishing domain for Consensys,Medium,Yes ,17.9.2024
+corescientific-okta[.]com,Domain,Phishing domain for CoreScientific,Medium,No,29.3.2024
+settings-okta[.]com,Domain,Phishing domain for CoreScientific,Medium,No,6.12.2023
+docusignhq[.]net,Domain,Phishing domain for DocuSign,High ,No,14.10.2024
+docusign-okta[.]com,Domain,Phishing domain for DocuSign,High ,No,14.10.2024
+account.kemper-support[.]com,Domain,Phishing domain for DoorDash,High ,Yes ,19.5.2024
+calendar-dd[.]com ,Domain,Phishing domain for DoorDash,Medium,No,26.9.2022
+login.doordash-support[.]com ,Domain,Phishing domain for DoorDash,Medium,Yes ,19.5.2024
+okta-verify[.]com ,Domain,Phishing domain for DoorDash,Low,No,2.9.2020
+www[.]dashsso[.]com ,Domain,Phishing domain for DoorDash,Medium,No,17.11.2023
+epic-servicedesk[.]com ,Domain,Phishing domain for Epic,High ,Yes ,20.5.2023
+sso-falconx[.]com,Domain,Phishing domain for FalconX,Medium,No,6.12.2023
+fico-servicenow[.]com ,Domain,Phishing domain for FICO,High ,Yes ,9.6.2024
+five9-hr[.]com,Domain,Phishing domain for Five9,High ,Yes ,20.5.2024
+login.five9-hr[.]com,Domain,Phishing domain for Five9,High ,Yes ,20.5.2024
+corp-foundever[.]com,Domain,Phishing domain for foundever,High ,Yes ,24.3.2024
+corp-foundever[.]net,Domain,Phishing domain for foundever,High ,Yes ,25.3.2024
+foundever-sso[.]com,Domain,Phishing domain for foundever,High ,Yes ,24.3.2024
+galaxy-okta[.]com,Domain,Phishing domain for Galaxy,Medium,No,5.12.2023
+okta-gamestop[.]com,Domain,Phishing domain for GameStop,High ,No,3.10.2024
+gemini-sso[.]com,Domain,Phishing domain for Gemini,High ,Yes ,6.5.2024
+prntsrc[.]net,Domain,Phishing domain for Gemini,Medium,Yes ,16.5.2024
+stargate-sso[.]com,Domain,Phishing domain for Gemini,High ,Yes ,6.5.2024
+stargatesso-gemini[.]com,Domain,Phishing domain for Gemini,Medium,Yes ,12.10.2024
+binance-us-okta[.]com,Domain,"Phishing domain for Gemini, refers to https://stargate.okta.com/help/login",High ,Yes ,20.9.2024
+gofundme-okta[.]com,Domain,Phishing domain for GoFundMe,Medium,No,11.3.2024
+grayscale-okta[.]com,Domain,Phishing domain for GreyScale,Medium,No,5.12.2023
+grubhubsso[.]com ,Domain,Phishing domain for GrubHub,High ,Yes ,22.1.2024
+grubhub-support[.]com,Domain,Phishing domain for GrubHub,High ,Yes ,19.5.2024
+login.grubhub-support[.]com,Domain,Phishing domain for GrubHub,High ,Yes ,19.5.2024
+corporate-huntington[.]com,Domain,Phishing domain for Huntington,High ,Yes ,20.4.2024
+sso.ibexgiobal[.]com,Domain,Phishing domain for ibexgiobal,High ,Yes ,22.4.2024
+intercom-hr[.]com,Domain,Phishing domain for Intercom,Medium,Yes ,15.5.2024
+intercom-okta[.]com,Domain,Phishing domain for Intercom,Medium,No,5.3.2024
+intercomsso[.]net,Domain,Phishing domain for Intercom,High ,Yes ,14.11.2023
+login.hr-intercom[.]com,Domain,Phishing domain for Intercom,High ,No,16.5.2024
+okta-intercom[.]com,Domain,Phishing domain for Intercom,High ,No,18.4.2023
+itbit-okta[.]com,Domain,Phishing domain for Itbit,Medium,Yes ,5.12.2023
+jacksonhewitt-service[.]com ,Domain,Phishing domain for Jackson Hewitt,High ,Yes ,20.5.2024
+account.klaviyo-hr[.]com,Domain,Phishing domain for Klaviyo,High ,Yes ,16.5.2024
+klaviyocorp[.]net,Domain,Phishing domain for Klaviyo,High ,Yes ,16.11.2023
+klaviyo-hr[.]com,Domain,Phishing domain for Klaviyo,High ,Yes ,16.5.2024
+klaviyo-vpn[.]com,Domain,Phishing domain for Klaviyo,Low,No,30.3.2023
+klav-workday[.]com,Domain,Phishing domain for Klaviyo,Low,No,31.3.2023
+login.klaviyo-hr[.]com,Domain,Phishing domain for Klaviyo,High ,Yes ,16.5.2024
+sso-klaviyo[.]com,Domain,Phishing domain for Klaviyo,Low,No,25.3.2023
+louisvuitton-okta[.]com,Domain,Phishing domain for louis Vuitton (similar to older phishing domain - louisvuitton.okta-lv[.]com),Medium,No,6.10.2024
+luno-okta[.]com,Domain,Phishing domain for Luno,Medium,No,29.3.2024
+dashboard-mailgun[.]com,Domain,Phishing domain for Maligun,Medium,No,14.10.2024
+review-mailgun[.]com,Domain,Phishing domain for Maligun,Medium,No,3.10.2024
+verify-mailgun[.]com,Domain,Phishing domain for Maligun,Medium,No,9.10.2024
+okta-campaignmonitor[.]com   ,Domain,Phishing domain for MariGold,Medium,No,28.2.2024
+markel-hr[.]com,Domain,Phishing domain for Markel,Medium,No,23.4.2024
+mgmresorts-okta[.]com ,Domain,Phishing domain for MGM Resorts,High ,Yes ,4.8.2022
+newyorklifehr[.]com,Domain,Phishing domain for New York Life Insurance Company,Medium,Yes ,24.4.2024
+login.nfp-hr[.]com,Domain,Phishing domain for NFP,High ,Yes ,24.4.2024
+nfp-hr[.]com,Domain,Phishing domain for NFP,High ,Yes ,24.4.2024
+nike-support[.]com,Domain,Phishing domain for Nike,Medium,Yes ,14.6.2022
+okta-nydig[.]com,Domain,Phishing domain for NYDIG,Medium,No,29.3.2024
+okta-onsolve[.]com,Domain,Phishing domain for OnSolve,Medium,No,6.2.2024
+onsolve-okta[.]com,Domain,Phishing domain for OnSolve,Medium,No,6.2.2024
+paxos-okta[.]com,Domain,Phishing domain for Paxos,Medium,No,5.3.2024
+login.corporate-pnc[.]com,Domain,Phishing domain for PNC,High ,Yes ,20.4.2024
+cinfin-hr[.]com,Domain,Phishing domain for Podium,Medium,Yes ,22.4.2024
+mercury-hr[.]com,Domain,Phishing domain for Podium,Medium,Yes ,22.4.2024
+mutualofomaha-hr[.]com,Domain,Phishing domain for Podium,Medium,Yes ,22.4.2024
+podium-hr[.]com,Domain,Phishing domain for Podium,Medium,Yes ,22.4.2024
+revolut-ticket[.]com ,Domain,Phishing domain for revolut,High ,Yes ,4.8.2024-5.8.2024
+okta-ripple[.]com,Domain,Phishing domain for Ripple,Medium,No,18.4.2024
+ripple-okta[.]com,Domain,Phishing domain for Ripple,Medium,No,18.4.2024
+login.rbx-hr[.]com,Domain,Phishing domain for Roblox,High ,Yes ,18.5.2024
+rbx.okta[.]bio,Domain,Phishing domain for Roblox,Low,No,7.12.2024
+rbx-corp[.]com,Domain,Phishing domain for Roblox,High ,Yes ,31.10.2023
+rbx-hr[.]com,Domain,Phishing domain for Roblox,High ,Yes ,18.5.2024
+rbxhr[.]net,Domain,Phishing domain for Roblox,High ,Yes ,27.1.2024
+rbx-servicedesk[.]com,Domain,Phishing domain for Roblox,High ,Yes ,14.5.2023
+roblox-hrs[.]com,Domain,Phishing domain for Roblox,High ,Yes ,27.1.2024
+account.securian-hr[.]com,Domain,Phishing domain for Securian,High ,Yes ,16.5.2024
+login.securian-hr[.]com,Domain,Phishing domain for Securian,High ,Yes ,16.5.2024
+securian-hr[.]com,Domain,Phishing domain for Securian,High ,Yes ,16.5.2024
+contact-sendgrid[.]com,Domain,Phishing domain for SendGrid,Medium,No,18.9.2024
+manageactivity-sendgrid[.]com,Domain,Phishing domain for SendGrid,Medium,No,13.9.2024
+sendgrid-account[.]com,Domain,Phishing domain for SendGrid,Medium,No,8.9.2024
+sessions-sendgrid[.]com,Domain,Phishing domain for SendGrid,Medium,No,2.9.2024
+grid-review[.]com,Domain,Phishing domain for SendGrid,Medium,No,10.9.2024
+account-sendgrid[.]com,Domain,Phishing domain for SendGrid,Medium,No,9.9.2024
+sendgrid-overview[.]com,Domain,Phishing domain for SendGrid,Medium,No,9.9.2024
+twillio-sendgrid[.]com,Domain,Phishing domain for SendGrid,Medium,No,20.9.2024
+rejectauth-sendgrid[.]com,Domain,Phishing domain for SendGrid,Medium,No,22.8.2024
+servicenowprod[.]com,Domain,Phishing domain for ServiceNow,High ,No,12.10.2024
+resolveservicedesk[.]com,Domain,Phishing domain for ServiceNow,High ,No,10.10.2024
+snapchat-okta[.]com,Domain,Phishing domain for Snap,High ,No,14.10.2024
+squarespacehr[.]com,Domain,Phishing domain for SquareSpace,Medium,Yes ,29.5.2024
+squarespace-okta[.]com,Domain,Phishing domain for SquareSpace,Medium,Yes ,18.11.2023
+squarespace-hr[.]com,Domain,Phishing domain for Square-Space,Medium,Yes ,25.4.2024
+login.suniife[.]com,Domain,Phishing domain for Sun Life Financial,Medium,Yes ,20.4.2024
+login.synchronyfinanciai[.]com,Domain,Phishing domain for Synchrony,High ,No,26.4.2024
+ping.taskus-sso[.]com,Domain,Phishing domain for TaskUs,High ,Yes ,19.5.2024
+teleperformance-incident[.]com ,Domain,Phishing domain for Telepreformance,High ,Yes ,2.11.2023
+telesignhr[.]com,Domain,Phishing domain for TeleSign,Medium,Yes ,22.4.2024
+telint-helpdesk.com,Domain,Phishing domain for Telus,High ,Yes ,27.8.2023
+telint-helpdesk[.]com,Domain,Phishing domain for Telus,High ,Yes ,27.8.2023
+login.thrivent-hr[.]com,Domain,Phishing domain for Thrivent,High ,Yes ,25.4.2024
+thrivent-hr[.]com,Domain,Phishing domain for Thrivent,High ,Yes ,25.4.2024
+corp-cox[.]com,Domain,Phishing domain for T-mobile,High ,Yes ,15.4.2024
+t-mobile-okta[.]com ,Domain,Phishing domain for T-mobile,High ,Yes ,6.10.2023
+verify-tmobile[.]com,Domain,Phishing domain for T-mobile,Medium,No,27.8.2024
+storewatch-tmobile[.]com,Domain,Phishing domain for T-mobile,Medium,No,25.9.2024
+t-mobiie[.]net,Domain,"Phishing domain for T-mobile, on 28.9.2022 this domain hosted a phishing page for Symantec",High ,Yes ,"9.6.2022, 28.9.2022"
+ally-hr[.]com,Domain,Phishing domain for transamerica,High ,Yes ,21.4.2024
+corporate-ally[.]com,Domain,Phishing domain for transamerica,High ,Yes ,21.4.2024
+transamerica-hr[.]com,Domain,Phishing domain for transamerica,High ,Yes ,21.4.2024
+login.transamerica-hr[.]com,Domain,Phishing domain for Transamerica Life Companies,High ,Yes ,20.4.2024
+okta-twilio[.]com,Domain,Phishing domain for Twilio,Medium,No,18.4.2024
+typeform-okta[.]com,Domain,Phishing domain for TypeForm,Medium,No,28.3.2024
+ultahub[.]com,Domain,Phishing domain for Ultra Beauty,Medium,Yes ,20.9.2024
+ultainternal[.]com,Domain,Phishing domain for Ultra Beauty,Medium,Yes ,20.9.2024
+unchainedprod-okta[.]com,Domain,Phishing domain for Unchained,Medium,Yes ,23.9.2024
+login.unumhr[.]com,Domain,Phishing domain for UNUM,High ,Yes ,24.4.2024
+login.unum-hr[.]com,Domain,Phishing domain for UNUM,High ,Yes ,24.4.2024
+unumhr[.]com,Domain,Phishing domain for UNUM,High ,Yes ,24.4.2024
+login.uscc-hr[.]com,Domain,Phishing domain for UScellular,High ,Yes ,20.5.2024
+tickets.zapto[.]org ,Domain,Phishing domain for Uscellular,Low,No,12.8.2024
+uscc-hr[.]com ,Domain,Phishing domain for UScellular,High ,Yes ,5.6.2024
+connect-asurion[.]net,Domain,Phishing domain for Verizon,High ,Yes ,28.3.2024
+supporthub-iqor[.]com,Domain,Phishing domain for Verizon,High ,Yes ,28.3.2024
+vzapps-vzn[.]com,Domain,Phishing domain for Verizon,High ,Yes ,28.3.2024
+xapo-okta[.]com,Domain,Phishing domain for Xapo bank,Medium,No,5.3.2024
+ouryahoo[.]okta[.]com[.]shortid[.]support,Domain,Phishing domain for Yahoo,Medium,No,13.12.2023
+ziffdavis-okta[.]com,Domain,Phishing domain for Ziff-Davis,Medium,No,29.2.2024
+uscc-hr[.]com,Domain,Phishing domain  ,High ,Yes ,6.5.2024
+stargate-okta[.]com,Domain,Phishing domian for Gemini,Medium,Yes ,19.9.2024
+concentrix-servicedesk[.]com,Domain,Phishing for Concentrix,High ,Yes ,14.5.2023
+login[.]doordash-support[.]com ,Domain,Phishing for DoorDash,High ,Yes ,19.5.2024
+okta-verify[.]com,Domain,Phishing for DoorDash,Low,No,2.9.2020
+ibexgiobal[.]com,Domain,Phishing for iBex,High ,Yes ,22.4.2024
+mixpanel-okta[.]com,Domain,Phishing for Mipanel,Medium,No,6.3.2024
+robinhood-servicedesk[.]com,Domain,Phishing for Robinhod,High ,Yes ,13.5.2023
+zendesk-servicedesk[.]com,Domain,Phishing for Zendex,High ,Yes ,28.5.2023
+okta-ouryahoo[.]com,Domain,"Phishing page for Yahoo, similar to older phishing domains - ouryahoo-okta[.]org, ouryahoo-okta[.]net, ouryahoo-okta[.]com",Medium,No,8.10.2024
+gd-okta[.]com,Domain,Phishing to GoDaddy,High ,No,14.10.2024
+142.93.3[.]117,IP Address,"Hosting apple-vpn[.]com, acwa-internal[.]com, acwa-apple[.]com",Medium,,16.9.2024-25.9.2024
+80.78.25[.]254,IP Address,Hosting condenast-hub-okta-emea[.]com,Medium,,29.9.2024
+80.78.24[.]166,IP Address,Hosting consensys-okta[.]com,Medium,,17.9.2024
+80.78.28[.]234,IP Address,Hosting louisvuitton-okta[.]com,Medium,,5.10.2024-6.10.2024
+179.43.187[.]101,IP Address,Hosting okta-intercom[.]com,High ,,18.4.2023
+193.149.176[.]19,IP Address,Hosting phishing page,Low,,20.5.2024
+68.183.20[.]231,IP Address,Hosting phishing page for Amica and hosting amica-hr[.]com and hanover-hr[.]com,Medium,,21.4.2024-29.4.2024
+161.35.98[.]8,IP Address,Hosting phishing page for ClickSend and hosting clicksend-staging[.]com,Medium,,29.4.2024-6.5.2024
+67.217.228[.]42,IP Address,Hosting phishing page for foundever and also hosting corp-foundever.[.]net,High ,,25.3.2024-7.4.2024
+162.33.179[.]76,IP Address,"Hosting phishing page for Gemini also hosted - gemini-sso[.]com, stargate-sso[.]com, uscellular-sso[.]com",Medium,,6.5.2024-14.5.2024
+67.205.185[.]135,IP Address,Hosting phishing page for NewYork Life New York Life Insurance Company and hosting newyorklifehr[.]com,Medium,,24.4.2024-30.4.2024
+161.35.96[.]229,IP Address,"Hosting phishing page for Podium and hosting podium-hr[.]com, cinfin-hr[.]com, mercury-hr[.]com",Medium,,22.4.2024-30.4.2024
+144.202.121[.]111,IP Address,Hosting phishing page for SquareSpace and hosting activecampaignhr[.]com,Medium,,25.4.2024
+64.95.13[.]215,IP Address,Hosting resolveservicedesk[.]com,High ,,9.10.2024-10.10.2024
+80.78.24[.]176,IP Address,Hosting stargate-okta[.]com and mcointernal-okta[.]com and binance-us-okta[.]com,Medium,,19.9.2024
+138.68.47[.]14,IP Address,Hosting sync-apple[.]com,Medium,,17.9.2024-26.9.2024
+80.78.22[.]244,IP Address,Hosting twitter-okta[.]com and okta-ouryahoo[.]com,Medium,,6.10.2024-9.10.2024
+137.220.43[.]146,IP Address,Hosts pfchangs-support[.]com and securian-hr[.]com,High ,,16.5.2024-27.5.2024
+45.77.122[.]253,IP Address,"Hosts phishing page for Roblox, also hosted teleperformance-incident[.]com and rbx-corp[.]com",High ,,31.10.2023-9.11.2023
+216.245.184[.]53,IP Address,"Phishing page for Gemini, hosting stargatesso[.]com  and prntsrc[.]net",Low,,16.5.2024-20.5.2024
+69b575025bd763e58fcb95035b9b6e358f43737d91e01ebdaa19934e0206a966,Sha256,authorization.php on klav-workday[.]com,Low,No,
+0acb0fc9762e4359f562794011d77317c78f7b68cec08b715d98ed16ba761fac,Sha256,DOM of apple-vpn[.]com,Medium,0/58 on VT,
+6604762c149476ff2f833b336d5077d2ac349bccacdf70eb86af28105028fbe0,Sha256,DOM of sendgrid-account[.]com,Medium,Not on VT,
+00cc2176062c84db97399bb8761803d15ad1edf4b23eccb74979bb79d2a483ab,Sha256,DOM with placeholder - Okta Username (Email),High ,Not on VT,
+a226437823c213da4b2f4cfdedc87bfa88204b17a0aebca1a33c3d6055178616,Sha256,DOMs with the placeholder - example@domain.com,High ,Not on VT,
+a23a15cf02ff5bfdf1b51335af4b91ca96c436781b9791280ab8c470643d07d7,Sha256,DOMs with the placeholder - Domain\Username,High ,Not on VT,
+c1e6d17cdae38320041149688fdab35409c2d466319873f33390b801b130dae4,Sha256,DOMs with the placeholder - Email ,High ,Not on VT,
+f8b7bb31e7e8c574d74e52eba7dcf3de48c7f5fa6d39d64685d39355d688defb ,Sha256,DOMs with the placeholder - Email or Username ,High ,0/63 on VT,
+a226437823c213da4b2f4cfdedc87bfa88204b17a0aebca1a33c3d6055178616,Sha256,DOMs with the placeholder - example@domain.com,High ,Not on VT,
+807865ab553996e521995c6624a41e026ef06f5370e1cad6a9647a68f7474798,Sha256,DOMs with the placeholder - F5 Username ,High ,Not on VT,
+0cea1ff596fe9a73f77bcd99ec9c77b69c27408a1b1c1c756300ef3db4c3c41f ,Sha256,DOMs with the placeholder - Five9 Domain Login (Ex. JDoe) ,High ,2/63 on VT,
+9fea58b71ce27a360735a0ebe4badb2f0e1d17ed1b4baa229a568aec987c802c,Sha256,DOMs with the placeholder - Lan ID,High ,0/63 on VT,
+436831126b5851ba76cd7bedc687ef08538fc639f7cc5e8665488aecfaeaf735 ,Sha256,DOMs with the placeholder - someone@bt.com,High ,Not on VT,
+ab9f02f9eae92f52c983e18dafa2142203afe96a4f4a2390e061812989186e77 ,Sha256,DOMs with the placeholder - SSO ID ,High ,Not on VT,
+695bd0671a2d91d7087abb3c314f59cca2b52f05411aca478e208c4648616486,Sha256,DOMs with the placeholder - Username ,High ,2/63 on VT,
+5dd491b89daadabfe8419d5d1e436a6dd9b4eea25fc4ba5898e6a1bca34f06e9 ,Sha256,DOMs with the placeholder - Username ,High ,0/65 on VT,
+46e7cf1fb46a73f098fa6f0f46732bdd298af690ec1452fac9b97884ca8b5a39 ,Sha256,DOMs with the placeholder - Username or Email,High ,0/65 on VT,
+1f28bdadbf55e8c7023c4ac754eb963b776847e2d1826d8cf396b01807185f70,Sha256,DOMs with the placeholder - Work email,High ,Not on VT,
+7d7ab8c1e2e469539e0d85d2b2166238c71bfd40ae7a373babf3744fc89a0ef8,Sha256,"HTML page of binance-us-okta[.]com, stargate-okta[.]com, louisvuitton-okta[.]com and more contains https://stargate.okta[.]com/help/login and https://stargate.okta[.]com/privacy",High ,0/63 on VT,
+4ae2d449cc534f746e351500a78ed83b2b4555cdf22a49e2e5ef48b10ec55bd6,Sha256,"HTML page of uscellular-sso[.]com, gemini-sso[.]com and stargate-sso[.]com, contains https://nigga.okta[.]com/help/login",High ,Not on VT,
+3aeba4ab4ed3a5005444f108e6e54bc50c8c02421c1e6cfceab915e1de5cf862 ,Sha256,HTML response of binance-sso[.]com and  epic-servicedesk[.]com ,High ,Not on VT,
+53bb86ab4f9bf507d1f186b5be98f80960db4243afead96ef8ce6eafb2346587,Sha256,HTML response of grubhubsso[.]com ,High ,Not on VT,
+d03ce20518692e3c2adc3f578ba92cab5e19f014664438b729d431a24be1823f,Sha256,HTML response of login.servicenow-help[.]com,Medium,Not on VT,
+af1ddeab240bc7321e8c3dfc400ac8273e03af1ce0da9ed73e47570189795e4c ,Sha256,HTML response of uscc-hr[.]com placeholder - User ID ,High ,Not on VT,
+dd4782fc37ada8c2411fd65877eb3c3199aa67224ffa6c65b81c2e4b8658f727 ,Sha256,image hosted by several phishing domains,Low,Not on VT,
+c8ff5a54213c5ac0146b1ffe36974b07113f9f7060f951d5f80b93befa3b03f2,Sha256,"init.js on binance-us-okta[.]com okta-ouryahoo[.]com, louisvuitton-okta[.]com, binance-us-okta[.]com, stargate-okta[.]com, consensys-okta[.]com",Medium,Not on VT,
+ce91909e4a421b6377468d22c6d68438da717c300a1b1326177aab3d01b5abee,Sha256,login page of contact-sendgrid[.]com,Medium,0/63 on VT,
+8293806652949fc5056d2b841ad30010a8e83e0e6adfb102ef83c73bdea074eb ,Sha256,login.css file found on several phishing domains,High ,Not on VT,
+1d55d14c08eb1d61344f19d17f48b81cca3c4a24f54a0ee3707cf59b296db314 ,Sha256,"Matches YARA rule for ""https://nigga.okta[.]com/help/login""",Low,0/65 on VT,
+2d640430ec60721437ca4d5ff64d16cb0d3febce2e206fa749a9f8e007f9a5ae ,Sha256,"Matches YARA rule for ""https://nigga.okta[.]com/help/login""",Medium,2/62 on VT,
+8683370db6d2b7f5137199f0a6b012fcd09cfff6afb30064a23b3339927ed9c9 ,Sha256,"Matches YARA rule for ""https://nigga.okta[.]com/help/login""",Medium,0/65 on VT,
+9833c1b277759b26478c88afe74680d5fbf3efff535dd803b1a3ebe4e7b8d466 ,Sha256,"Matches YARA rule for ""https://nigga.okta[.]com/help/login""",Low,0/65 on VT,
+c05d6607585f882476b6b7c9a39fd0bd2bb7ced3e469d5312971971048e2c594,Sha256,"Matches YARA rule for ""https://nigga.okta[.]com/help/login""",Low,0/65 on VT,
+d6cbc900942061d85477bda4dbfd7f77d823e8c08ebe80e1f9ff10bec20b5172 ,Sha256,"Matches YARA rule for ""https://nigga.okta[.]com/help/login""",Low,0/65 on VT,
+e534b01f04ad4721f7cde5e173a1098ae537d0f84a30d908d0eddae6a2fc4514,Sha256,"poll.js file on okta-ouryahoo[.]com, louisvuitton-okta[.]com, binance-us-okta[.]com, stargate-okta[.]com, consensys-okta[.]com",High ,Not on VT,
