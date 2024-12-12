@@ -72,3 +72,6 @@ SupportAWS,IAM user name,https://sysdig.com/blog/emeraldwhale/
 SupportAWS123,IAM user password,https://sysdig.com/blog/emeraldwhale/
 @Myregular2910Evolutions@,IAM user password,https://sysdig.com/blog/emeraldwhale/
 Smiles[.]com[.]br,CompanyWebsite in use case for model access,https://permiso.io/blog/exploiting-hosted-models
+supdev,IAM user name,https://securitylabs.datadoghq.com/articles/tales-from-the-cloud-trenches-unwanted-visitor
+713521355166,AWS account ID,https://securitylabs.datadoghq.com/articles/tales-from-the-cloud-trenches-unwanted-visitor
+SupportAWS,IAM role name,https://securitylabs.datadoghq.com/articles/tales-from-the-cloud-trenches-unwanted-visitor
