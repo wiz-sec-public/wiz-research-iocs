@@ -75,3 +75,5 @@ Smiles[.]com[.]br,CompanyWebsite in use case for model access,https://permiso.io
 supdev,IAM user name,https://securitylabs.datadoghq.com/articles/tales-from-the-cloud-trenches-unwanted-visitor
 713521355166,AWS account ID,https://securitylabs.datadoghq.com/articles/tales-from-the-cloud-trenches-unwanted-visitor
 SupportAWS,IAM role name,https://securitylabs.datadoghq.com/articles/tales-from-the-cloud-trenches-unwanted-visitor
+^[A-Z][a-z]{5}[0-9]{3}$,IAM user name regex,Wiz Research
+New_Policy,IAM policy name,Wiz Research
