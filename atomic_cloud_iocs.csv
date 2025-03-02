@@ -77,3 +77,8 @@ supdev,IAM user name,https://securitylabs.datadoghq.com/articles/tales-from-the-
 SupportAWS,IAM role name,https://securitylabs.datadoghq.com/articles/tales-from-the-cloud-trenches-unwanted-visitor
 ^[A-Z][a-z]{5}[0-9]{3}$,IAM user name regex,Wiz Research
 New_Policy,IAM policy name,Wiz Research
+AWSSupportRoleForFargate,IAM role name,https://www.linkedin.com/posts/grenuv_a-few-months-ago-we-found-a-malicious-aws-activity-7295479293038481409-x4vM
+AWSSupportRoleForLambda,IAM role name,https://www.linkedin.com/posts/grenuv_a-few-months-ago-we-found-a-malicious-aws-activity-7295479293038481409-x4vM
+AWSLambdaRegister,IAM policy name,https://www.linkedin.com/posts/grenuv_a-few-months-ago-we-found-a-malicious-aws-activity-7295479293038481409-x4vM
+AWSSupportForFargateLambdaInstanceProfile, IAM Instance profile name,https://www.linkedin.com/posts/grenuv_a-few-months-ago-we-found-a-malicious-aws-activity-7295479293038481409-x4vM
+AWSSupportForFargateRegisterAccountFunction,Lambda function name,https://www.linkedin.com/posts/grenuv_a-few-months-ago-we-found-a-malicious-aws-activity-7295479293038481409-x4vM
