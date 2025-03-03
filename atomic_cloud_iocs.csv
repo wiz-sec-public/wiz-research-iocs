@@ -77,3 +77,12 @@ supdev,IAM user name,https://securitylabs.datadoghq.com/articles/tales-from-the-
 SupportAWS,IAM role name,https://securitylabs.datadoghq.com/articles/tales-from-the-cloud-trenches-unwanted-visitor
 ^[A-Z][a-z]{5}[0-9]{3}$,IAM user name regex,Wiz Research
 New_Policy,IAM policy name,Wiz Research
+adminuserdevs,IAM user name,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
+develops,IAM user name,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
+Gh0st_808,IAM user name,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
+Gh0st_365,IAM user name,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
+rootdev,IAM user name,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
+ses2,IAM user name,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
+warkopi,IAM user name,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
+Java_Ghost,Security group name,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
+We Are There But Not Visible,Security group description,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
