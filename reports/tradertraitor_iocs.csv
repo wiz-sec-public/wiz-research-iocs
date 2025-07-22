@@ -1,0 +1,98 @@
+Type,Value,Description,Source
+SHA256 Hash,47e997b85ed3f51d2b1d37a6a61ae72185d9ceaf519e2fdb53bf7e761b7bc08f,YAML Deserialization Payload,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+SHA256 Hash,937c533bddb8bbcd908b62f2bf48e5bc11160505df20fea91d9600d999eafa79,RN Loader,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+SHA256 Hash,e89bf606fbed8f68127934758726bbb5e68e751427f3bcad3ddf883cb2b50fc7,RN Stealer,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,getstockprice[.]com,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,cdn[.]clubinfo[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,getstockprice[.]info,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,api[.]stockinfo[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,cdn[.]logoeye[.]net,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,en[.]wfinance[.]org,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,en[.]stocksindex[.]org,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,cdn[.]jqueryversion[.]net,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,en[.]stockslab[.]org,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,update[.]jquerycloud[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,cdn[.]soccerlab[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,api[.]coinpricehub[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,cdn[.]leaguehub[.]net,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,cdn[.]clublogos[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,api[.]jquery-release[.]com,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,cdn[.]logosports[.]net,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,skypredict[.]org,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,api[.]bitzone[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,weatherdatahub[.]org,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,api[.]ethzone[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,api[.]fivebit[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,blockprices[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,api[.]coinhar[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,mavenradar[.]com,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,indobit[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,api[.]thaibit[.]io,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+Domain,chainanalyser[.]com,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,70.34.245[.]118,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,5.206.227[.]51,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,131.226.2[.]120,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,136.244.93[.]248,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,54.39.83[.]151,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,195.133.26[.]32,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,185.236.231[.]224,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,194.11.226[.]16,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,91.103.140[.]191,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,192.236.199[.]57,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,146.70.124[.]70,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,45.141.58[.]40,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,5.133.9[.]252,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,146.19.173[.]29,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,146.70.125[.]120,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,185.62.58[.]74,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,80.82.77[.]80,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,192.248.145[.]210,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,194.15.112[.]200,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,91.234.199[.]90,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,185.216.144[.]41,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,91.193.18[.]201,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,185.62.58[.]122,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,23.254.230[.]253,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,146.70.88[.]126,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,79.137.248[.]193,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,38.180.62[.]135,,https://unit42.paloaltonetworks.com/slow-pisces-new-custom-malware/
+IP Address,146.19.173.125,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754805
+IP Address,23.227.202.54,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754806
+IP Address,38.132.124.88,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754807
+IP Address,88.119.174.148,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754808
+IP Address,198.244.135.250,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754809
+Domain,contortonset[.]com,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754810
+Domain,relysudden[.]com,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754811
+Domain,primerosauxiliosperu[.]com,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754812
+Domain,rentedpushy[.]com,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754813
+Domain,basketsalute[.]com,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754814
+Domain,prontoposer[.]com,,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754815
+SHA256,a8b1c5eb2254e1a3cec397576ef42da038600b4fa7cd1ab66472d8012baabf17,Ruby script launched via JumpCloud agent,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754805
+SHA257,08607faad41009e31c094539b20b615b3e7a71e716f2bca12e4a097f38f14466,FULLHOUSE.DOORED (AOT Translation),https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754806
+SHA258,5701d7bcf809d5ffc9061daeb24d3e7cc6585d9b42bacf94fc68a6c500542f8c,FULLHOUSE.DOORED,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754807
+SHA259,5701d7bcf809d5ffc9061daeb24d3e7cc6585d9b42bacf94fc68a6c500542f8c,FULLHOUSE.DOORED,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754808
+SHA260,28c3d359364bf5d64a864f08d4743ea08e48017be27fda8cf53fb5ba307583b4,FULLHOUSE.DOORED,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754809
+SHA261,e901d9279d8f2ad96d741e7cd92770c0ce3ff3f4c029dbf26177b4e09228fe66,STRATOFEAR encrypted configuration ,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754810
+SHA262,88f23c22a7f9da8b5087a3fa9c76fd5c79903d89ceda4152943cadc0797cbcb8,us.zoom.ZoomService.plist,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754811
+SHA263,a90561efc22bdd777956cc67d5b67e3ec3c1b4f35a64f4328e40615d2ab24186,com.google.kservice,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754812
+SHA264,a90561efc22bdd777956cc67d5b67e3ec3c1b4f35a64f4328e40615d2ab24186,com.microsoft.teams.TeamsDaemon,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754813
+SHA265,a90561efc22bdd777956cc67d5b67e3ec3c1b4f35a64f4328e40615d2ab24186,us.zoom.ZoomService,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754814
+SHA266,5d18443f88f38ad7e3de62ac46489f649b4e8183b76fba902fb9a9ccf8a0d5c8,com.apple.privacy,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754815
+SHA267,9b1c1013ad8d2c0144af74eff5a2afc454b7b858bb7a5cba312bfb0f531c8930,com.xpc.agent.plist,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754816
+SHA268,6f1c47566a46d252885858f928a3b855fb3fd03941e3571d152562d0c75c4d47,xpc.protect,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754817
+SHA269,f0854a28209e07a70d7847af4b2632e697bcb95f2c8fcead41eb9314710bd0c2,xpc.protect,https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain?e=48754818
+Domain,npmjscloud[.]com,Domain used in social engineering campaign,GitHub Security Blog
+Domain,npmrepos[.]com,Domain used in social engineering campaign,GitHub Security Blog
+Domain,cryptopriceoffer[.]com,Domain used in social engineering campaign,GitHub Security Blog
+Domain,tradingprice[.]net,Domain used in social engineering campaign,GitHub Security Blog
+Domain,npmjsregister[.]com,Domain used in social engineering campaign,GitHub Security Blog
+Domain,bi2price[.]com,Domain used in social engineering campaign,GitHub Security Blog
+Domain,npmaudit[.]com,Domain used in social engineering campaign,GitHub Security Blog
+Domain,coingeckoprice[.]com,Domain used in social engineering campaign,GitHub Security Blog
+Malicious GitHub Account,GalaxyStarTeam,Fake GitHub account hosting malicious repos,GitHub Security Blog
+Malicious GitHub Account,Cryptowares,Fake GitHub account hosting malicious repos,GitHub Security Blog
+Malicious GitHub Account,Cryptoinnowise,Fake GitHub account hosting malicious repos,GitHub Security Blog
+Malicious GitHub Account,netgolden,Fake GitHub account hosting malicious repos,GitHub Security Blog
+Domain,alwaysckain.com,Infrastructure domain used in JumpCloud intrusion,SentinelOne
+Domain,dafom[.]dev,Domain associated with DAFOM macOS dropper,CISA
+SHA256 Hash,60b3cfe2ec3100caf4afde734cfd5147f78acf58ab17d4480196831db4aa5f18,DAFOM macOS dropper sample,CISA
