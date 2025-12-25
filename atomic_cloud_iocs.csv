@@ -87,3 +87,5 @@ warkopi,IAM user name,https://unit42.paloaltonetworks.com/javaghost-cloud-phishi
 Java_Ghost,Security group name,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
 We Are There But Not Visible,Security group description,https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
 Administratorsz,Security group name,https://securitylabs.datadoghq.com/articles/tales-from-the-cloud-trenches-the-attacker-doth-persist-too-much/#routine-attacker-tactics
+user-x1x2x3x4,IAM user name,https://aws.amazon.com/blogs/security/cryptomining-campaign-targeting-amazon-ec2-and-amazon-ecs/
+yenik65958/secret,Container image name,https://aws.amazon.com/blogs/security/cryptomining-campaign-targeting-amazon-ec2-and-amazon-ecs/
