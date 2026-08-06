@@ -1,62 +1,60 @@
-# Scripts
+# scripts
 
-Local tooling added on top of the upstream
-[wiz-sec-public/wiz-research-iocs](https://github.com/wiz-sec-public/wiz-research-iocs)
-data. Everything here only *reads* the upstream files, so pulling from upstream
-never conflicts.
+## scan_npm_lockfile.py
 
-## `scan_npm_lockfile.py`
+Checks an npm or pnpm lockfile against the malicious-package CSVs in this repo.
 
-Checks an npm lockfile against the supply-chain package lists in this repo
-(currently `reports/keyv-packages.csv` and `reports/shai-hulud-2-packages.csv`).
+### Usage
 
 ```bash
-python scripts/scan_npm_lockfile.py /path/to/package-lock.json
-python scripts/scan_npm_lockfile.py /path/to/pnpm-lock.yaml
+pip install -r scripts/requirements.txt
+python scripts/scan_npm_lockfile.py path/to/package-lock.json
+python scripts/scan_npm_lockfile.py path/to/pnpm-lock.yaml
 ```
 
-Exits `1` if any locked package/version matches a known-malicious release, `0`
-if clean — so it can gate CI.
+Exit codes: `0` no match, `1` at least one match, `2` usage or data error.
 
-### Staying current
+Output on a match:
 
-There is no generated index to regenerate. The script discovers IOC data at run
-time by scanning the repo for CSVs with a `Package` column, so keeping it
-up to date is just:
+```
+IOC lists: keyv-packages (443), shai-hulud-2-packages (795)
+Lockfile: 1727 packages
 
-```bash
-git pull upstream main
+1 known-malicious package(s):
+  keyv@6.0.0  [keyv-packages]
 ```
 
-Set that remote up once with:
+### Supported lockfiles
 
-```bash
-git remote add upstream git@github.com:wiz-sec-public/wiz-research-iocs.git
-```
-
-This matters because upstream revises these lists frequently while a campaign is
-live — `keyv-packages.csv` was updated three times on a single day.
-
-New campaign CSVs are picked up with no code change, including ones using
-different column names (`Version`, `Malicious Versions`, `Affected Versions`, …).
-Non-package IOC files (domains, hashes, IAM names) are ignored automatically.
-
-### Options
-
-| Flag | Purpose |
+| File | Formats |
 | --- | --- |
-| `-v`, `--verbose` | List skipped CSVs and version entries that could not be matched |
-| `--export-json PATH` | Write the normalised package data to a file (`-` for stdout) |
-| `--repo-root PATH` | Search a different checkout for IOC CSVs |
+| `package-lock.json` | lockfileVersion 1, 2, 3 |
+| `pnpm-lock.yaml` | v5 (`/name/1.2.3`), v6 (`/name@1.2.3`), v9 (`name@1.2.3`) keys |
 
-`--export-json` is generated on demand rather than committed, so it can never go
-stale against upstream.
+Workspace entries in `package-lock.json` and the `snapshots:` section of
+`pnpm-lock.yaml` are skipped; both duplicate or shadow registry installs.
 
-### Caveats
+### IOC data
 
-- Only exact version pins are matched. Range expressions (`>=1.0.0 <2.0.0`) are
-  reported as unmatched rather than silently ignored — see `-v`.
-- A CSV with a `Package` column but no recognisable version column raises a
-  warning instead of being skipped quietly, so upstream schema changes surface.
-- `pnpm-lock.yaml` parsing is a best-effort line scan of the `packages:` section
-  (stdlib only, no PyYAML) and may not cover every pnpm lockfile version.
+CSVs are read at run time. Every CSV in the repo with a `Package` column is
+indexed and the filename stem is used as the campaign name, so adding a
+campaign CSV requires no code change. CSVs without a `Package` column
+(domains, hashes, wallets) are ignored.
+
+Matching is on exact versions. Two cases are reported on stderr rather than
+passed over silently:
+
+- a version cell holding a range instead of a pin — it cannot be compared to a
+  locked version, so it is not matched
+- a CSV with a `Package` column but no recognisable version column
+
+### Tests
+
+```bash
+pip install -r scripts/requirements.txt pytest
+pytest scripts
+```
+
+`test_repo_csvs_still_parse` runs against the repo's own CSVs and fails if a
+future CSV cannot be indexed. CI runs the suite on changes to `scripts/` or to
+any CSV.
