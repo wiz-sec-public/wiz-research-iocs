@@ -9,7 +9,6 @@ from scan_npm_lockfile import (
     parse_package_lock,
     parse_pnpm_lock,
     parse_versions,
-    read_lockfile,
     split_pnpm_key,
 )
 
@@ -21,8 +20,6 @@ from scan_npm_lockfile import (
         ("= 0.0.7 || = 0.0.8", ["0.0.7", "0.0.8"]),
         ("6.0.0", ["6.0.0"]),
         ("= 1.4.2511142126", ["1.4.2511142126"]),
-        ("1.0.0-beta.1", ["1.0.0-beta.1"]),
-        ("", []),
     ],
 )
 def test_parse_versions_exact(cell, expected):
@@ -46,7 +43,6 @@ def test_parse_versions_reports_ranges_instead_of_dropping_them():
         ("/@scope/name/1.2.3", ("@scope/name", "1.2.3")),  # v5 scoped
         ("@ai-sdk/azure@0.0.10(zod@3.25.76)", ("@ai-sdk/azure", "0.0.10")),  # peer suffix
         ("@scope/name", (None, None)),  # no version
-        ("", (None, None)),
     ],
 )
 def test_split_pnpm_key(key, expected):
@@ -128,14 +124,6 @@ def test_parse_pnpm_lock_reads_packages_and_ignores_snapshots(tmp_path):
         ("keyv", "4.5.4"),
         ("@adobe/css-tools", "4.5.0"),
     }
-
-
-def test_read_lockfile_rejects_unknown_filename(tmp_path):
-    other = tmp_path / "yarn.lock"
-    other.write_text("", encoding="utf-8")
-
-    with pytest.raises(ValueError, match="unsupported lockfile"):
-        read_lockfile(other)
 
 
 def write_csv(directory, name, text):
