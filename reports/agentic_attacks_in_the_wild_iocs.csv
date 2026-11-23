@@ -73,23 +73,3 @@ IP Address,130.94.103[.]197,"Wiz research (Agentic attacks in the wild): used wi
 IP Address,76.13.169[.]197,"Wiz research (Agentic attacks in the wild): used with stolen credentials and for wide probing and password spraying (match may be a failed attempt); Hostinger, Oct 31-Nov 23 2026"
 IP Address,82.29.131[.]60,"Wiz research (Agentic attacks in the wild): used with stolen credentials and for wide probing and password spraying (match may be a failed attempt); Hosteons, Oct 31-Nov 23 2026"
 IP Address,130.94.35[.]151,"Wiz research (Agentic attacks in the wild): used with stolen credentials and for wide probing and password spraying (match may be a failed attempt); LIGHT NODE, Oct 31-Nov 23 2026"
-User Agent,norma/0.4,Wiz research (Agentic attacks in the wild): ARTEX web fetch tool
-User Agent,artx-audit/1.0,Wiz research (Agentic attacks in the wild): ARTEX cloud and identity client
-User Agent,artex/1.0,Wiz research (Agentic attacks in the wild): ARTEX cloud and identity client
-User Agent,artex-probe,Wiz research (Agentic attacks in the wild): ARTEX cloud and identity client
-User Agent,artex-aws-probe,Wiz research (Agentic attacks in the wild): ARTEX cloud and identity client
-User Agent,artex-permcheck,Wiz research (Agentic attacks in the wild): ARTEX cloud and identity client
-User Agent,artex-recon,Wiz research (Agentic attacks in the wild): ARTEX cloud and identity client
-User Agent,artex-i<number>/<version>,Wiz research (Agentic attacks in the wild): ARTEX cloud and identity client; more generally any user agent starting with artex- or artx-
-User Agent,rezlab-i<number>,Wiz research (Agentic attacks in the wild): ARTEX rebrand
-User Agent,mcp-proxy-for-aws/1.0.0,"Wiz research (Agentic attacks in the wild): AWS MCP proxy version used by one operator, with or without a python-httpx/ prefix; legitimate current versions are 1.3 and later"
-User Agent,cyberstrike/<version>,Wiz research (Agentic attacks in the wild): CyberStrikeAI; also used by authorized testers
-User Agent,CyberStrikeAI/<version>,Wiz research (Agentic attacks in the wild): CyberStrikeAI; also used by authorized testers
-User Agent,pentest-recon,Wiz research (Agentic attacks in the wild): self-labeled agent user agent (ARTEX-Harvester campaign)
-Other,pentest-i<number>,"Wiz research (Agentic attacks in the wild): ARTEX-Harvester campaign: incrementing task intent counter in pod, workspace and resource names"
-Other,csai-,"Wiz research (Agentic attacks in the wild): CyberStrikeAI operator: prefix on created resources (csai-escape pods, csai-pentest-role IAM role, csai-probe runner)"
-Other,"probe-i<number>, ptest-i<number>, i<number>-probe, i<number>-control, probe<number>, agent<number>_probe_<epoch>","Wiz research (Agentic attacks in the wild): ARTEX step counter (3-6 digits, rises during a run) in role session, user, resource names, tags and SSM comments"
-Other,"i<number>-tmp-rg, i<number>temp, i<number>xfer<random>, <word>-i<number>adm, intent-<number> authz probe","Wiz research (Agentic attacks in the wild): ARTEX step counter with a work label, in admin user names and in descriptions"
-Other,"x9role<number>, x9testuser<number>, zz-i<number>-<word>, zzz_probe_i<number>, zz-nonexistent-<number>@<domain>","Wiz research (Agentic attacks in the wild): ARTEX agent-chosen rare prefixes (x9, zz, zzz)"
-Other,"nonexistent-probe-<number>, probe-nonexistent-role-<number>, pentest-nonexistent-i<number>, <prefix>-doesnotexist-<word>, <prefix>-authzprobe-<word>","Wiz research (Agentic attacks in the wild): ARTEX agent-chosen nonexistent names; nonexistent/doesnotexist also appear in benign AI coding agents and tests, use with other patterns"
-Other,"ami-12345678, i-1234567890abcdef0, 123456789012","Wiz research (Agentic attacks in the wild): placeholder IDs from AWS documentation used in write calls to test permissions; also common in benign tools, use with other patterns"
