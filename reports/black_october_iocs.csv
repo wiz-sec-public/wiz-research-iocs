@@ -13,41 +13,41 @@ IP Address,183.213.133[.]12,Fireworks AI incident: attacker egress IP (alert or 
 IP Address,146.70.224[.]38,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
 IP Address,146.70.224[.]113,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
 IP Address,146.70.224[.]209,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,170.62.100[.]234,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,193.32.126[.]146,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,80.66.197[.]113,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,141.98.252[.]247,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
+IP Address,170.62.100[.]234,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,193.32.126[.]146,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,80.66.197[.]113,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,141.98.252[.]247,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
 IP Address,134.209.82[.]225,Fireworks AI incident: attacker egress IP (alert or block); also reported by Cursor,https://fireworks.ai/security/indicators-of-compromise
-IP Address,170.62.100[.]240,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,170.62.100[.]236,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
+IP Address,170.62.100[.]240,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,170.62.100[.]236,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
 IP Address,193.176.31[.]29,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
 IP Address,31.169.53[.]59,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
 IP Address,31.169.53[.]89,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
 IP Address,31.169.53[.]47,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
 IP Address,31.169.53[.]56,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,88.214.21[.]66,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,194.36.27[.]155,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,185.209.196[.]171,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,193.32.126[.]135,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,193.32.126[.]178,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,141.98.252[.]244,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,185.209.199[.]80,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,185.209.196[.]153,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,147.78.241[.]134,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
+IP Address,88.214.21[.]66,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,194.36.27[.]155,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,185.209.196[.]171,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,193.32.126[.]135,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,193.32.126[.]178,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,141.98.252[.]244,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,185.209.199[.]80,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,185.209.196[.]153,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,147.78.241[.]134,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
 IP Address,185.103.52[.]196,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,185.209.196[.]135,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
+IP Address,185.209.196[.]135,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
 IP Address,146.70.117[.]34,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,45.129.59[.]47,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,45.129.59[.]190,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,185.195.233[.]170,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,170.62.100[.]225,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,170.62.100[.]107,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
+IP Address,45.129.59[.]47,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,45.129.59[.]190,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,185.195.233[.]170,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit (31173 Services), may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,170.62.100[.]225,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
+IP Address,170.62.100[.]107,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
 IP Address,193.176.31[.]135,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
 IP Address,193.176.31[.]138,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
 IP Address,193.176.31[.]178,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,147.78.241[.]245,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
+IP Address,147.78.241[.]245,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
 IP Address,43.107.42[.]214,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
-IP Address,85.203.54[.]115,Fireworks AI incident: attacker egress IP (alert or block),https://fireworks.ai/security/indicators-of-compromise
+IP Address,85.203.54[.]115,"Fireworks AI incident: attacker egress IP (alert or block); Mullvad VPN exit, may be shared",https://fireworks.ai/security/indicators-of-compromise
 IP Address,202.61.139[.]15,"Fireworks AI incident: outbound destination (TCP 8777, POST /exfil)",https://fireworks.ai/security/indicators-of-compromise
 User Agent,firectl-admin/1.7.x,Fireworks AI incident: user agent (any 1.7 version),https://fireworks.ai/security/indicators-of-compromise
 User Agent,Mozilla/5.0 hunt,Fireworks AI incident: user agent,https://fireworks.ai/security/indicators-of-compromise
@@ -59,19 +59,19 @@ URL,hxxps://paste[.]rs/u93eF,"Railway incident: collection script run on a follo
 URL,hxxps://paste[.]rs/NzKwZ,"Railway incident: collection script run on a follow-on victim VM, Nov 10-15 2026",https://x.com/eyalsela/status/2123112306179469705
 URL,hxxps://paste[.]rs/9Pyma,"Railway incident: collection script run on a follow-on victim VM, Nov 10-15 2026",https://x.com/eyalsela/status/2123112306179469705
 URL,hxxps://paste[.]rs/A6218,"Railway incident: collection script run on a follow-on victim VM, Nov 10-15 2026",https://x.com/eyalsela/status/2123112306179469705
-IP Address,74.211.97[.]67,"Bitrise incident: Primary operations host: stolen-credential use against Bitrise web/API, GCP, GitHub and Google Workspace APIs, Nov 12-14 2026",https://bitrise.io/security-advisory-november-2026
-IP Address,118.100.234[.]120,"Bitrise incident: Attacker account registration, attacker-controlled CI builds, fuzzing, reuse of install-page links; dynamic subscriber address, Nov 10-14 2026",https://bitrise.io/security-advisory-november-2026
-IP Address,95.40.73[.]129,"Bitrise incident: Reconnaissance, throw-away account registration, artifact downloads via install-page links, SSRF probing; AWS, reassignable, Oct 25-27 2026",https://bitrise.io/security-advisory-november-2026
-IP Address,74.82.199[.]230,"Bitrise incident: One account sign-up after the primary host was blocked; low confidence; correlate only, not alone, Nov 14 2026",https://bitrise.io/security-advisory-november-2026
-IP Address,185.197.251[.]16,"Bitrise incident: Two probe-named account registrations; low confidence; correlate only, not alone, Oct 30 2026",https://bitrise.io/security-advisory-november-2026
-Email Address,wanyyj999@gmail[.]com,"Bitrise incident: Account registered by the actor and used to run CI builds, Nov 12-14 2026",https://bitrise.io/security-advisory-november-2026
-Email Address,pentest-probe-1d2bf9@maxxspace[.]com,"Bitrise incident: Throw-away probe account, Oct 25 2026",https://bitrise.io/security-advisory-november-2026
-Email Address,pentest-probe-9cede9@maxxspace[.]com,"Bitrise incident: Throw-away probe account, Oct 25 2026",https://bitrise.io/security-advisory-november-2026
-Email Address,test-5fowzn6@srv1[.]mail-tester[.]com,"Bitrise incident: Throw-away probe account; mail-tester[.]com itself is legitimate, Oct 25 2026",https://bitrise.io/security-advisory-november-2026
-Email Address,pentestprobeq7m4z2@olipii[.]com,"Bitrise incident: Throw-away probe account, Oct 25 2026",https://bitrise.io/security-advisory-november-2026
-Email Address,pentestprobv2mbjlcuxr@ruutukf[.]com,"Bitrise incident: Throw-away probe account, Oct 26 2026",https://bitrise.io/security-advisory-november-2026
-Email Address,bsd3b8a0f967@maxxspace[.]com,"Bitrise incident: Probe-named account (username pqprobe386873); low confidence; correlate only, not alone, Oct 30 2026",https://bitrise.io/security-advisory-november-2026
-Email Address,bsc69064bfb3@maxxspace[.]com,"Bitrise incident: Probe-named account (username probe387344); low confidence; correlate only, not alone, Oct 30 2026",https://bitrise.io/security-advisory-november-2026
+IP Address,74.211.97[.]67,"Bitrise incident: primary operations host; stolen-credential use against Bitrise web/API, GCP, GitHub and Google Workspace APIs, Nov 12-14 2026",https://bitrise.io/security-advisory-november-2026
+IP Address,118.100.234[.]120,"Bitrise incident: attacker account registration, attacker-controlled CI builds, fuzzing, reuse of install-page links; dynamic subscriber address, Nov 10-18 2026",https://bitrise.io/security-advisory-november-2026
+IP Address,95.40.73[.]129,"Bitrise incident: reconnaissance, throw-away account registration, artifact downloads via install-page links, SSRF probing; AWS, reassignable, Oct 25-27 2026",https://bitrise.io/security-advisory-november-2026
+IP Address,74.82.199[.]230,"Bitrise incident: one account sign-up after the primary host was blocked; low confidence; correlate only, not alone, Nov 14 2026",https://bitrise.io/security-advisory-november-2026
+IP Address,185.197.251[.]16,"Bitrise incident: two probe-named account registrations; low confidence; correlate only, not alone, Oct 30 2026",https://bitrise.io/security-advisory-november-2026
+Email Address,wanyyj999@gmail[.]com,"Bitrise incident: account registered by the actor (username auwiqns) and used to run CI builds, Nov 12-14 2026",https://bitrise.io/security-advisory-november-2026
+Email Address,pentest-probe-1d2bf9@maxxspace[.]com,"Bitrise incident: throw-away probe account, Oct 25 2026",https://bitrise.io/security-advisory-november-2026
+Email Address,pentest-probe-9cede9@maxxspace[.]com,"Bitrise incident: throw-away probe account, Oct 25 2026",https://bitrise.io/security-advisory-november-2026
+Email Address,test-5fowzn6@srv1[.]mail-tester[.]com,"Bitrise incident: throw-away probe account; mail-tester[.]com itself is legitimate, Oct 25 2026",https://bitrise.io/security-advisory-november-2026
+Email Address,pentestprobeq7m4z2@olipii[.]com,"Bitrise incident: throw-away probe account, Oct 25 2026",https://bitrise.io/security-advisory-november-2026
+Email Address,pentestprobv2mbjlcuxr@ruutukf[.]com,"Bitrise incident: throw-away probe account, Oct 26 2026",https://bitrise.io/security-advisory-november-2026
+Email Address,bsd3b8a0f967@maxxspace[.]com,"Bitrise incident: probe-named account (username pqprobe386873); low confidence; correlate only, not alone, Oct 30 2026",https://bitrise.io/security-advisory-november-2026
+Email Address,bsc69064bfb3@maxxspace[.]com,"Bitrise incident: probe-named account (username probe387344); low confidence; correlate only, not alone, Oct 30 2026",https://bitrise.io/security-advisory-november-2026
 User Agent,pentest-probe-i5938/1.0,"Bitrise incident: Scanner user agent (12,813 requests), Oct 25-27 2026",https://bitrise.io/security-advisory-november-2026
 User Agent,Mozilla/5.0 (compatible; authorized-pentest/bitrise-readonly),"Bitrise incident: Scanner user agent (1,074 requests), Oct 25-27 2026",https://bitrise.io/security-advisory-november-2026
 User Agent,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) research-readonly,"Bitrise incident: Scanner user agent (457 requests), Oct 25-27 2026",https://bitrise.io/security-advisory-november-2026
@@ -79,15 +79,15 @@ User Agent,Mozilla/5.0 (research; read-only; pentest),"Bitrise incident: Scanner
 User Agent,Mozilla/5.0 (compatible; authorized-security-research),"Bitrise incident: Scanner user agent (369 requests), Oct 25-27 2026",https://bitrise.io/security-advisory-november-2026
 User Agent,bitrise-pentest-probe/1.0 (authorized read-only),"Bitrise incident: Scanner user agent (159 requests), Oct 25-27 2026",https://bitrise.io/security-advisory-november-2026
 User Agent,pentest-probe-readonly/1.0 (authorized read-only baseline),"Bitrise incident: Scanner user agent (76 requests), Oct 25-27 2026",https://bitrise.io/security-advisory-november-2026
-User Agent,norma/0.4,"Bitrise incident: substring match: Rare documentation-fetching client seen on all three main source IPs, Oct 25-Nov 14 2026",https://bitrise.io/security-advisory-november-2026
-User Agent,recon,"Bitrise incident: User agent on GitHub REST call GET /app authenticated with a stolen GitHub App key; medium confidence; correlate only, not alone, Nov 13 2026",https://bitrise.io/security-advisory-november-2026
-Other,auwiqns,"Bitrise incident: username: Platform username of the account above, Nov 12-14 2026",https://bitrise.io/security-advisory-november-2026
-Other,/_i6084_probe_missing,"Bitrise incident: url path substring: SSRF callback canary path, Oct 25 2026",https://bitrise.io/security-advisory-november-2026
-Other,/nope-1774,"Bitrise incident: url path substring: SSRF callback canary path; medium confidence, Nov 14 2026",https://bitrise.io/security-advisory-november-2026
-Other,zzq-random-nonexist-9182,"Bitrise incident: hostname label substring: Made-up subdomain label used to test wildcard DNS / routing, Nov 12 2026",https://bitrise.io/security-advisory-november-2026
-Other,idor-probe-812,"Bitrise incident: ci job name: App name created by the actor on the CI platform, Nov 12 2026",https://bitrise.io/security-advisory-november-2026
-Other,i871-probe,"Bitrise incident: ci job name: App name created by the actor on the CI platform, Nov 12-14 2026",https://bitrise.io/security-advisory-november-2026
-Other,=== I871C START,"Bitrise incident: log string: Banner printed by the actor's build script that dumped VM instance metadata; medium confidence; correlate only, not alone, Nov 12 2026",https://bitrise.io/security-advisory-november-2026
+User Agent,norma/0.4,"Bitrise incident: rare documentation-fetching client seen on all three main source IPs (substring match), Oct 25-Nov 14 2026",https://bitrise.io/security-advisory-november-2026
+User Agent,recon,"Bitrise incident: user agent on a GitHub REST call (GET /app) authenticated with a stolen GitHub App key; medium confidence; correlate only, not alone, Nov 13 2026",https://bitrise.io/security-advisory-november-2026
+Other,auwiqns,"Bitrise incident: platform username of the actor account wanyyj999@gmail[.]com, Nov 12-18 2026",https://bitrise.io/security-advisory-november-2026
+Other,/_i6084_probe_missing,"Bitrise incident: SSRF callback canary URL path (substring match), Oct 25 2026",https://bitrise.io/security-advisory-november-2026
+Other,/nope-1774,"Bitrise incident: SSRF callback canary URL path (substring match); medium confidence, Nov 14 2026",https://bitrise.io/security-advisory-november-2026
+Other,zzq-random-nonexist-9182,"Bitrise incident: made-up subdomain label used to test wildcard DNS and routing (substring match), Nov 12 2026",https://bitrise.io/security-advisory-november-2026
+Other,idor-probe-812,"Bitrise incident: app name the actor created on the CI platform, Nov 12 2026",https://bitrise.io/security-advisory-november-2026
+Other,i871-probe,"Bitrise incident: app name the actor created on the CI platform, Nov 12-14 2026",https://bitrise.io/security-advisory-november-2026
+Other,=== I871C START,"Bitrise incident: build-log banner printed by the actor's script that dumped VM instance metadata; medium confidence; correlate only, not alone, Nov 12 2026",https://bitrise.io/security-advisory-november-2026
 IP Address,3.212.63[.]55,"Northflank incident: attacker signup, C2 and exfiltration destination (AWS EC2), Oct 29-30 2026; ports: TCP 8080 (attacker webhook) and TCP 18700-18949 (plain-HTTP data upload)",https://northflank.com/blog/incident-report-october-30-security-incident
 IP Address,209.50.164[.]61,"Northflank incident: source of scripted Northflank API calls, Oct 30 2026",https://northflank.com/blog/incident-report-october-30-security-incident
 Domain,3-212-63-55[.]sslip[.]io,"Northflank incident: attacker server as self-hosted Git integration endpoint (sslip[.]io wildcard DNS), Oct 30 2026",https://northflank.com/blog/incident-report-october-30-security-incident
@@ -109,7 +109,7 @@ File Path,/tmp/h.js,"Northflank incident: attacker tool file on compromised API 
 File Path,/tmp/httpc.js,"Northflank incident: attacker tool file on compromised API component, Oct 30 2026",https://northflank.com/blog/incident-report-october-30-security-incident
 File Path,/tmp/sw.sh,"Northflank incident: attacker tool file on compromised API component, Oct 30 2026",https://northflank.com/blog/incident-report-october-30-security-incident
 File Path,/tmp/tg.txt,"Northflank incident: attacker tool file on compromised API component, Oct 30 2026",https://northflank.com/blog/incident-report-october-30-security-incident
-IP Address,23.106.46[.]239,"Wiz research (Black October): reported by Zeabur, later credential checking; stolen-key testing; not directly linked to the platform breaches; also reported by Zeabur, Oct 26-29 2026",https://www.wiz.io/blog/black-october-for-ai-developer-platforms#iocs-50
+IP Address,23.106.46[.]239,"Wiz research (Black October): credential checking; stolen-key testing; not directly linked to the platform breaches; also reported by Zeabur, Oct 26-29 2026",https://www.wiz.io/blog/black-october-for-ai-developer-platforms#iocs-50
 IP Address,38.246.114[.]118,"Wiz research (Black October): checked permissions on several stolen keys; stolen-key testing; not directly linked to the platform breaches, Oct 25-29 2026",https://www.wiz.io/blog/black-october-for-ai-developer-platforms#iocs-50
 IP Address,104.243.32[.]50,"Wiz research (Black October): checked permissions on several stolen keys; stolen-key testing; not directly linked to the platform breaches, Oct 19-30 2026",https://www.wiz.io/blog/black-october-for-ai-developer-platforms#iocs-50
 IP Address,31.57.201[.]201,"Wiz research (Black October): used multiple stolen keys; stolen-key testing; not directly linked to the platform breaches; also reported by Zeabur, Oct 18-25 2026",https://www.wiz.io/blog/black-october-for-ai-developer-platforms#iocs-50
@@ -153,7 +153,7 @@ IP Address,185.209.178[.]153,"Dosu incident: main attack address (Latitude[.]sh)
 IP Address,56.10.188[.]158,"Dosu incident: scanning and probing (AWS ap-southeast-1), Oct 31-Nov 4 2026",https://dosu.dev/security/incident-2026-11-02
 Domain,plains-roof-anybody-seasons[.]trycloudflare[.]com,"Dosu incident: Cloudflare Quick Tunnel the attacker pointed integrations at to capture credentials, Nov 2 2026",https://dosu.dev/security/incident-2026-11-02
 URL,webhook[.]site/42ecb092-44f0-4a9c-9b62-696d1405d911,"Dosu incident: where stolen CI credentials were sent (source gives no scheme), Nov 2 2026",https://dosu.dev/security/incident-2026-11-02
-Domain,fldubai[.]com,"Dosu incident: email domain of the attacker's Dosu accounts, Nov 2 2026",https://dosu.dev/security/incident-2026-11-02
+Domain,fldubai[.]com,"Dosu incident: email domain of the attacker's Dosu accounts; also reported by Ardor, Nov 2 2026",https://dosu.dev/security/incident-2026-11-02
 Other,t13d3112h2_e8f1e7e78f70_b26ce05bbdd6,"Dosu incident: TLS JA4 fingerprint of the attacker's curl client, seen from both IPs, Oct 31-Nov 4 2026",https://dosu.dev/security/incident-2026-11-02
 Other,t13d1813h1_85036bcba153_d339722ba4af,"Dosu incident: TLS JA4 fingerprint of the attacker's Python client, Oct 31-Nov 2 2026",https://dosu.dev/security/incident-2026-11-02
 User Agent,ARTEX-17785/1.0,"Dosu incident: custom user agent seen only from the attacker, Oct 31 2026",https://dosu.dev/security/incident-2026-11-02
@@ -201,7 +201,6 @@ Other,_artx-*,"Chainstack incident: DNS proof-record label pattern created and d
 IP Address,180.178.56[.]10,"Barracuda incident: attacker IP address (presence alone does not confirm malicious activity), Nov 1-2 2026",https://trust.barracuda.com/security/barracuda-xdr-integration-credentials
 IP Address,52.128.238[.]126,"Barracuda incident: attacker IP address (presence alone does not confirm malicious activity), Nov 1-2 2026",https://trust.barracuda.com/security/barracuda-xdr-integration-credentials
 IP Address,221.146.68[.]107,"Barracuda incident: attacker IP address (presence alone does not confirm malicious activity), Nov 1-2 2026",https://trust.barracuda.com/security/barracuda-xdr-integration-credentials
-IP Address,2a09:bac1:7680:3d0::26b[:]5b,"Barracuda incident: attacker IP address (presence alone does not confirm malicious activity), Nov 1-2 2026",https://trust.barracuda.com/security/barracuda-xdr-integration-credentials
 User Agent,Mozilla/5.0 (compatible; read-only-audit),"Barracuda incident: attacker user agent, Nov 1-2 2026",https://trust.barracuda.com/security/barracuda-xdr-integration-credentials
 Other,i31911,"Barracuda incident: example attacker cloud/Kubernetes resource name (letter i followed by digits, no hyphen; Nov 13 update), Nov 1-2 2026",https://trust.barracuda.com/security/barracuda-xdr-integration-credentials
 Other,i28324probe,"Barracuda incident: example attacker cloud/Kubernetes resource name (letter i followed by digits, no hyphen; Nov 13 update), Nov 1-2 2026",https://trust.barracuda.com/security/barracuda-xdr-integration-credentials
@@ -210,3 +209,7 @@ File Path,i19ghci.yml,"Barracuda incident: GitHub workflow file used by the atta
 File Path,i19ci2.yml,"Barracuda incident: GitHub workflow file used by the attacker (Nov 13 update), Nov 1-2 2026",https://trust.barracuda.com/security/barracuda-xdr-integration-credentials
 Other,i19ghci-,"Barracuda incident: GitHub branch name prefix used by the attacker (Nov 13 update), Nov 1-2 2026",https://trust.barracuda.com/security/barracuda-xdr-integration-credentials
 Other,i19ci2-,"Barracuda incident: GitHub branch name prefix used by the attacker (Nov 13 update), Nov 1-2 2026",https://trust.barracuda.com/security/barracuda-xdr-integration-credentials
+IP Address,64.34.94[.]217,"Ardor incident: source address of the first attack account (also the last IP of two further sign-ups); Latitude[.]sh (AS396356), Nov 6 2026",https://ardor.cloud/blog/security-incident-november-2026
+IP Address,64.34.94[.]211,"Ardor incident: source address of the second attack account; Latitude[.]sh (AS396356), Nov 8 2026",https://ardor.cloud/blog/security-incident-november-2026
+Domain,fldubai[.]com,"Ardor incident: email domain used to register both attack accounts; also reported by Dosu, Nov 6-8 2026",https://ardor.cloud/blog/security-incident-november-2026
+IP Address,23.224.79[.]106,"Rackspace Spot incident: source of unauthorized access with leaked credentials (pod creation, Kubernetes Secret reads); CNSERVERS hosting, Nov 17 2026",https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/
