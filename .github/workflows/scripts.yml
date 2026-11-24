@@ -1,0 +1,24 @@
+name: scripts
+
+on:
+  push:
+    paths:
+      - 'scripts/**'
+      - '**/*.csv'
+      - '.github/workflows/scripts.yml'
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - '**/*.csv'
+      - '.github/workflows/scripts.yml'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: pip install -r scripts/requirements.txt pytest
+      - run: pytest scripts -q
